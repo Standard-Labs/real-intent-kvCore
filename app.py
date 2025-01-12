@@ -55,7 +55,7 @@ def main():
 
 
                 df = df_filtered
-                df['Referer'] = 'Real Intent'
+                df['Referrer'] = 'Real Intent'
                 df['Source'] = 'Real Intent'
                 
                 if hashtag:
